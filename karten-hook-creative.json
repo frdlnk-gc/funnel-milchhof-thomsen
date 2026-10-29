@@ -1,0 +1,23 @@
+[
+ {
+  "name": "creative-1-karten-hook",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-kuh-stalltor.jpg",
+  "fokus": [
+   0.35,
+   0.5
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#2B2B2B",
+  "headline": [
+   "HERDEN-",
+   "MANAGER"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Groß Kordshagen · Stralsund · Barth"
+ }
+]

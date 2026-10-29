@@ -1,0 +1,38 @@
+[
+ {
+  "name": "creative-2-collage",
+  "logo": "logo-hd.png",
+  "fotos": [
+   "img/foto-hd-melkzeug.jpg",
+   "img/foto-hd-kuh-stalltor.jpg",
+   "img/foto-hd-hofanlage.jpg"
+  ],
+  "fokus": [
+   [
+    0.5,
+    0.5
+   ],
+   [
+    0.35,
+    0.5
+   ],
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "primary": "#2B2B2B",
+  "ink": "#1B1B1B",
+  "headline": [
+   "Herden-",
+   "manager"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Groß Kordshagen · Stralsund · Barth",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]
