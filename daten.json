@@ -1,0 +1,117 @@
+{
+ "firma": "Milchhof Thomsen",
+ "stelle": "Herdenmanager (m/w/d)",
+ "ort": "Groß Kordshagen",
+ "plz": "18442",
+ "branche": "landwirtschaft",
+ "farbe_primary": "#2B2B2B",
+ "farbe_secondary": "#4A7C3A",
+ "region_badge": "Groß Kordshagen & Umgebung",
+ "benefit_top": "Unbefristet & familiäres Team",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Eingespieltes, familiäres Team",
+  "Hilfe bei der Wohnungssuche",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Strukturierte Abläufe",
+  "Pünktliches Gehalt",
+  "Mitarbeiter-Events & regelmäßige Firmenfeiern",
+  "Kostenlose Parkmöglichkeiten"
+ ],
+ "aufgaben": [
+  "Du übernimmst Gesundheitskontrolle und Tierbehandlungen – in enger Zusammenarbeit mit der Hoftierärztin",
+  "Du führst die Herde: Trockenstellen, Gruppenmanagement, Fruchtbarkeitsmanagement sowie Brunst- und Aktivitätskontrolle",
+  "Du übernimmst Teamleitung und Arbeitskontrollen",
+  "Ihr vertretet euch gegenseitig in allen Aufgaben des Herdenmanagements"
+ ],
+ "anforderung": "Ein Hoch- oder Fachschulabschluss bzw. eine abgeschlossene landwirtschaftliche Ausbildung und Praxiserfahrung im Herdenmanagement. Dazu Spaß an der Arbeit mit Kühen, gute Selbstorganisation und eine konsequente, sorgfältige Arbeitsweise.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Milchvieh / Herdenmanagement",
+   "icon": "🐄",
+   "qualifikationen": [
+    {
+     "label": "Hoch- oder Fachschulabschluss",
+     "icon": "🎓"
+    },
+    {
+     "label": "Landwirtschaftliche Ausbildung",
+     "icon": "📘"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Andere Landwirtschaft",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Hoch- oder Fachschulabschluss",
+     "icon": "🎓"
+    },
+    {
+     "label": "Landwirtschaftliche Ausbildung",
+     "icon": "📘"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Studium in anderem Fach",
+     "icon": "🎓"
+    },
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1992",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "18",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "✓",
+    "label": "Familienbetrieb"
+   }
+  ],
+  "text": "Der Milchhof D. Thomsen e.K. ist ein familiengeführter Milchviehbetrieb in Groß Kordshagen (Mecklenburg-Vorpommern), gegründet 1992. Eine Hands-on-Mentalität, die von der Leitung vorgelebt wird, und ein Team von 18 Kolleginnen und Kollegen aus dem Ort und der näheren Umgebung sorgen für ein familiäres Miteinander. So verbindet der Hof moderne Milchviehhaltung mit echtem Zusammenhalt."
+ },
+ "kunde_tab": "39 Milchhof Thomsen",
+ "quelle": "https://milchhof-thomsen.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Groß Kordshagen"
+ },
+ "hero_bild": "img/hero-hofanlage.jpg",
+ "bilder": [
+  "img/f1-kuh-stalltor.jpg",
+  "img/f2-melkstand.jpg",
+  "img/f3-melkzeug.jpg",
+  "img/f4-stall.jpg",
+  "img/f5-hof-luftbild.jpg"
+ ]
+}
